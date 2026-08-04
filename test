@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Home | NorAust K9 Agility Club of Mid Florida</title>
+<meta name="description" content="NorAust K9 Agility Club of Mid Florida">
+<link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <div class="topbar">
+    <div class="container topbar-inner">
+      <span>AKC licensed club</span>
+      <span>Building confident teams through agility, friendship & fun</span>
+    </div>
+  </div>
+  <div class="container nav-wrap">
+    <a class="brand" href="index.html" aria-label="NorAust home">
+      <img src="assets/images/noraust-logo.jpeg" alt="NorAust K9 Agility Club of Mid Florida">
+    </a>
+    <button class="menu-toggle" aria-expanded="false" aria-controls="primary-nav">Menu</button>
+    <nav id="primary-nav" class="primary-nav" aria-label="Primary navigation">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="membership.html">Membership</a>
+      <a href="training.html">Training</a>
+      <a href="events.html">Events</a>
+      <a href="gallery.html">Gallery</a>
+      <a href="resources.html">Resources</a>
+      <a href="contact.html">Contact</a>
+      <a class="btn btn-gold nav-cta" href="membership.html">Join Now</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+<section class="hero">
+  <div class="hero-media"><img src="assets/images/hero-agility.svg" alt=""></div>
+  <div class="container hero-content">
+    <span class="eyebrow light">Welcome to NorAust</span>
+    <h1>Run faster.<br>Train smarter.<br>Grow together.</h1>
+    <p>NorAust K9 Agility Club of Mid Florida brings dog lovers together through training, events, sportsmanship and community.</p>
+    <div class="hero-actions"><a class="btn btn-gold" href="membership.html">Become a Member</a><a class="btn btn-ghost" href="events.html">See Upcoming Events</a></div>
+    <div class="hero-stats">
+      <div><strong>AKC</strong><span>Licensed club</span></div>
+      <div><strong>All levels</strong><span>New teams welcome</span></div>
+      <div><strong>Year-round</strong><span>Training & events</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="section intro-strip">
+  <div class="container icon-grid">
+    <article><span class="icon">🐾</span><h3>Friendly community</h3><p>Supportive members who celebrate every step of the journey.</p></article>
+    <article><span class="icon">🏆</span><h3>Train & compete</h3><p>Opportunities to build skills, confidence and teamwork.</p></article>
+    <article><span class="icon">📅</span><h3>Active calendar</h3><p>Trials, club meetings, practices and special events.</p></article>
+    <article><span class="icon">💙</span><h3>Volunteer spirit</h3><p>A club powered by people who love dogs and the sport.</p></article>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container section-head">
+    <div><span class="eyebrow">Mark your calendar</span><h2>Upcoming highlights</h2></div>
+    <a class="text-link" href="events.html">View all events →</a>
+  </div>
+  <div class="container card-grid three">
+    <article class="event-card">
+      <div class="date-badge"><strong>AUG</strong><span>16–18</span></div>
+      <div class="event-art art-blue">AKC AGILITY</div>
+      <div class="event-body"><h3>Agility Trial Weekend</h3><p>Three days of competition, teamwork and community.</p><a href="events.html">Event details →</a></div>
+    </article>
+    <article class="event-card">
+      <div class="date-badge"><strong>SEP</strong><span>22</span></div>
+      <div class="event-art art-gold">CLUB NIGHT</div>
+      <div class="event-body"><h3>Monthly Club Meeting</h3><p>Updates, planning, member news and a little fun.</p><a href="events.html">Event details →</a></div>
+    </article>
+    <article class="event-card">
+      <div class="date-badge"><strong>OCT</strong><span>05</span></div>
+      <div class="event-art art-green">FUN MATCH</div>
+      <div class="event-body"><h3>Practice & Fun Match</h3><p>A relaxed chance to train, volunteer and cheer each other on.</p><a href="events.html">Event details →</a></div>
+    </article>
+  </div>
+</section>
+
+<section class="section split-section">
+  <div class="container split">
+    <div class="media-card"><img src="assets/images/community.svg" alt="Illustration of club members and dogs"></div>
+    <div class="content-card">
+      <span class="eyebrow">About our club</span>
+      <h2>More than a sport — it’s a community.</h2>
+      <p>NorAust is built around good sportsmanship, thoughtful training and the joy of working with dogs. Whether you are curious about agility or already compete, there is a place for you here.</p>
+      <a class="btn btn-blue" href="about.html">Learn more about us</a>
+    </div>
+  </div>
+</section>
+
+<section class="section membership-band">
+  <div class="container split">
+    <div>
+      <span class="eyebrow light">Join our pack</span>
+      <h2>Membership has its benefits.</h2>
+      <p>Meet like-minded dog people, take part in club activities and help create great experiences for every team.</p>
+      <a class="btn btn-gold" href="membership.html">Explore membership</a>
+    </div>
+    <ul class="check-list">
+      <li>Member pricing on selected club activities</li>
+      <li>Practice, learning and volunteer opportunities</li>
+      <li>Voting rights and a voice in club life</li>
+      <li>Friendships that last far beyond the ring</li>
+    </ul>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container section-head"><div><span class="eyebrow">Choose your path</span><h2>Start where you are</h2></div></div>
+  <div class="container card-grid three">
+    <article class="feature-card"><div class="feature-number">01</div><h3>New to agility?</h3><p>Learn what the sport is, what to expect and how to get started safely.</p><a href="training.html">Explore training →</a></article>
+    <article class="feature-card"><div class="feature-number">02</div><h3>Ready to compete?</h3><p>Find event information, trial resources and ways to volunteer.</p><a href="events.html">Browse events →</a></article>
+    <article class="feature-card"><div class="feature-number">03</div><h3>Looking for community?</h3><p>Meet the club, discover member benefits and become part of NorAust.</p><a href="membership.html">Join the club →</a></article>
+  </div>
+</section>
+
+<section class="section cta-panel">
+  <div class="container cta-inner">
+    <div><span class="eyebrow light">Ready to take the next step?</span><h2>Come run with NorAust.</h2><p>Questions about the club, training or membership? We would love to hear from you.</p></div>
+    <a class="btn btn-gold" href="contact.html">Contact NorAust</a>
+  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div>
+      <img class="footer-logo" src="assets/images/noraust-logo.jpeg" alt="NorAust logo">
+      <p>NorAust K9 Agility Club of Mid Florida — a welcoming community for dog-and-handler teams.</p>
+    </div>
+    <div><h3>Explore</h3><a href="about.html">About</a><a href="training.html">Training</a><a href="events.html">Events</a><a href="gallery.html">Gallery</a></div>
+    <div><h3>Get involved</h3><a href="membership.html">Membership</a><a href="resources.html">Resources</a><a href="contact.html">Contact</a></div>
+    <div><h3>Preview site</h3><p>This draft uses sample content so the club can review the design before final details are added.</p></div>
+  </div>
+  <div class="container footer-bottom"><span>© 2026 NorAust K9 Agility Club of Mid Florida</span><span>Website preview</span></div>
+</footer>
+<script src="assets/js/main.js"></script>
+
+</body>
+</html>
